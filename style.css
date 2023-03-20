@@ -153,8 +153,8 @@ form{
 }
 
 img{
-    transform:translate(-130px,0px);
     background-color: rgb(230, 234, 253);
+    background-size: auto;
     width: 600px;
     height: 400px;
 }
