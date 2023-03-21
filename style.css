@@ -1,12 +1,16 @@
-header{
-    background-color:rgb(230, 234, 253);
-    position: fixed;
-    font-size: large;
-    color: black;
-    padding-left: 47px;
-    margin-bottom: 20px;
+.header{
+    background-color:rgb(230, 234, 253); 
+    height: 450px;
+
+}
+h1{
+    margin: 0px;
 }
 
+.text{
+    padding-left:600px;
+    padding-top: 200px;
+}
 
 .main{
     transform:translate(820px, 700px);
@@ -19,9 +23,7 @@ header{
     font-size:20px;
 }
 
-h1{
-    margin: 0px;
-}
+
 .text2{
     padding-left: 1%;
     margin-top: -35%;
@@ -153,8 +155,7 @@ form{
 }
 
 img{
-    background-color: rgb(230, 234, 253);
-    background-size: auto;
+    margin-top: -250px;
     width: 600px;
     height: 400px;
 }
@@ -188,6 +189,8 @@ h2{
     margin-top: -350px;
     
 }
+
+
 
 .p1{
     background-color:rgb(149, 206, 255); 
