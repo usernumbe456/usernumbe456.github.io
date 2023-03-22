@@ -18,6 +18,23 @@ img{
     width: 600px;
 }
 
-
+.button {
+    margin-top: 22px;
+    width: 90px;
+    height: 25px;
+    color: rgb(250, 250, 250);
+    border-radius: 5px;
+    padding: 8px 18px;
+    padding-bottom: 2px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    background: blue;
+    cursor: pointer;
+    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+    7px 7px 20px 0px rgba(0,0,0,.1),
+    4px 4px 5px 0px rgba(0,0,0,.1);
+    outline: none;
+}
 
 
