@@ -1,16 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
 .header{
     background-color:rgb(230, 234, 253); 
     height: 450px;
-
-}
-h1{
-    margin: 0px;
 }
 
 .text{
-    padding-left:600px;
-    padding-top: 200px;
+    padding-left: 600px;
+    margin-top: -230px;
 }
+img{
+    height: 400px;
+    width: 600px;
+}
+
+
+
 
 .main{
     transform:translate(820px, 700px);
@@ -224,6 +233,5 @@ h2{
     background: rgb(0,3,255);
     background: linear-gradient(0deg, rgba(0,3,255,1) 0%, rgba(2,126,251,1) 100%);
   }
-
 
 
