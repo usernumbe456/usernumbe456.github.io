@@ -7,7 +7,7 @@
 .header{
     background-color:rgb(230, 234, 253); 
     height: 450px;
-    background-size:cover;
+    width: 1800px;
 }
 
 .text{
@@ -105,8 +105,8 @@ h3{
 
 
 .extra1{
-    font-size: 20px;
-    width:150px;
+    font-size: 19px;
+    width:190px;
     height:170px;
     text-align:center;
     margin-top:40px;
